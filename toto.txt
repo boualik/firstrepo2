@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Salut le monde
 
+=======
+hello world
+Bye bye Wordl !
+>>>>>>> c99a1afc0b7d68f8de02b881bb32ce85592abcf7
